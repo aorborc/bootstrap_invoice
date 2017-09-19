@@ -1,0 +1,9 @@
+h1{
+	color: blue;
+}
+#content{
+	font-size:11px;
+	width: 200px;
+	color:red;
+	font-weight: bold;
+}
